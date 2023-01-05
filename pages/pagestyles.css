@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.aboutUs {
+    text-decoration: solid;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
